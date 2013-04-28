@@ -1,6 +1,6 @@
 require "wunderground-api"
 require 'pp'
-w = Wunderground.new(10001)
+w = Wunderground.new(ziip)
 f = w.forecast
 PP.pp f
 day = f[2]
