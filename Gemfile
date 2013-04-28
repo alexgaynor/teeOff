@@ -21,6 +21,7 @@ gem 'sqlite3'
 
 gem 'jquery-rails'
 gem "wunderground-api"
+gem "twilio-ruby"
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
